@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayBasic/ArrayBasic.iml" filepath="$PROJECT_DIR$/ArrayBasic/ArrayBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/Doubly_linklist/Doubly_linklist.iml" filepath="$PROJECT_DIR$/linkedList/Doubly_linklist/Doubly_linklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Genric/Genric.iml" filepath="$PROJECT_DIR$/Genric/Genric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multitherading_concept/Multitherading_concept.iml" filepath="$PROJECT_DIR$/Multitherading_concept/Multitherading_concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SHORTING/SHORTING.iml" filepath="$PROJECT_DIR$/SHORTING/SHORTING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TREE/TREE.iml" filepath="$PROJECT_DIR$/TREE/TREE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptional/exceptional.iml" filepath="$PROJECT_DIR$/exceptional/exceptional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/interviewQuestion/interviewQuestion.iml" filepath="$PROJECT_DIR$/linkedList/interviewQuestion/interviewQuestion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javalab/javalab.iml" filepath="$PROJECT_DIR$/javalab/javalab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lacture 14 array/lacture 14 array.iml" filepath="$PROJECT_DIR$/lacture 14 array/lacture 14 array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lacture11 class and object/lacture11 class and object.iml" filepath="$PROJECT_DIR$/lacture11 class and object/lacture11 class and object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lacture12 java method/lacture12 java method.iml" filepath="$PROJECT_DIR$/lacture12 java method/lacture12 java method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture10 number systerm/lecture10 number systerm.iml" filepath="$PROJECT_DIR$/lecture10 number systerm/lecture10 number systerm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>
